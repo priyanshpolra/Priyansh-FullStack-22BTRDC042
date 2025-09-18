@@ -4,7 +4,7 @@
 
 Transform your long, messy URLs into sleek, shareable links 🚀
 
-![App Screenshot](./Screenshot%202025-09-18%20at%202.25.57 PM.png)
+![App Screenshot]([./Screenshot%202025-09-18%20at%202.25.57 PM.png](https://github.com/user-attachments/assets/7fb344bb-2755-4c15-b7ce-c6cc198022c6))
 
 🔗 Live Demo
 
